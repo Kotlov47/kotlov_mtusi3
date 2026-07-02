@@ -1,0 +1,52 @@
+[
+    {
+        "timestamp": "2026-06-29 11:15:41",
+        "filename": "pryamye-i-naklonnye-lentochnye-konveyery-rsholod-2.jpg",
+        "count": 3,
+        "result_image": "/static/results/result.jpg"
+    },
+    {
+        "timestamp": "2026-06-29 11:15:43",
+        "filename": "pryamye-i-naklonnye-lentochnye-konveyery-rsholod-2.jpg",
+        "count": 3,
+        "result_image": "/static/results/result.jpg"
+    },
+    {
+        "timestamp": "2026-06-29 11:23:04",
+        "filename": "Снимок экрана — 2026-06-29 в 11.18.56.png",
+        "count": 2,
+        "result_image": "/static/results/result.jpg"
+    },
+    {
+        "timestamp": "2026-06-29 11:39:35",
+        "filename": "Снимок экрана — 2026-06-29 в 11.18.56.png",
+        "count": 2,
+        "processing_time": 0.054,
+        "model": "YOLOv8n",
+        "result_image": "/static/results/result.jpg"
+    },
+    {
+        "timestamp": "2026-06-29 13:04:46",
+        "filename": "Снимок экрана — 2026-06-29 в 11.18.56.png",
+        "count": 2,
+        "processing_time": 0.078,
+        "model": "YOLOv8n",
+        "result_image": "/static/results/result.jpg"
+    },
+    {
+        "timestamp": "2026-06-29 13:57:56",
+        "filename": "Снимок экрана — 2026-06-29 в 11.18.56.png",
+        "count": 2,
+        "processing_time": 0.032,
+        "model": "YOLOv8n",
+        "result_image": "/static/results/result.jpg"
+    },
+    {
+        "timestamp": "2026-06-29 13:57:57",
+        "filename": "Снимок экрана — 2026-06-29 в 11.18.56.png",
+        "count": 2,
+        "processing_time": 0.022,
+        "model": "YOLOv8n",
+        "result_image": "/static/results/result.jpg"
+    }
+]
